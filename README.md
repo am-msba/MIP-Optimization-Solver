@@ -1,2 +1,4 @@
 # Factory Location Porblem MIP Optimization Solver
-An MIP Optimization solver project that looked at the Factory Location Problem and used an MIP Optimizer within python to solve it using a set of randomly generated data.
+This project addresses the Facility Location Problem (FLP), a strategic decision-making challenge in supply chain management. The goal was to determine the optimal location for factories to minimize the total cost of facility setup and transportation while satisfying all customer demands.
+
+I developed a custom optimization solver in Python using a Mixed-Integer Programming (MIP) framework and applied it to an internally generated data set. The optimizer uses opening costs and customer distances to evaluate what factory locations should be opened as well as what customers should be designated to the open factories.
