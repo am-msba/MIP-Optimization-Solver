@@ -1,2 +1,2 @@
-# MIP_Optimization_Solver_Project
-An MIP Optimization solver project
+# Factory Location Porblem MIP Optimization Solver
+An MIP Optimization solver project that looked at the Factory Location Problem and used an MIP Optimizer within python to solve it using a set of randomly generated data.
