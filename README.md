@@ -13,5 +13,6 @@ I developed a custom optimization solver in Python using a Mixed-Integer Program
 
 ### Findings
 The best solution for the problem is shown below:
+
 ![Model Setup](assets/Map-Viz.png)
 ![Model Setup](assets/Optimization-Solution.png)
