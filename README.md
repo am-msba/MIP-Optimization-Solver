@@ -1,3 +1,5 @@
+[**Home**](https://am-msba.github.io/) | [**MIP Optimizer**](https://am-msba.github.io/MIP-Optimization-Solver/) | 
+
 ### Background
 
 This project addresses the Facility Location Problem (FLP), a strategic decision-making challenge in supply chain management. The goal was to determine the optimal location for factories to minimize the total cost of facility setup and transportation while satisfying all customer demands.
