@@ -1,5 +1,7 @@
 [**Home**](https://am-msba.github.io/Portfolio/) | [**Machine Learning Prediction Model**](https://am-msba.github.io/Machine_Learning_Prediction_Project/) |
 
+# MIP Optimization Solver
+
 ### Background
 
 This project addresses the Facility Location Problem (FLP), a strategic decision-making challenge in supply chain management. The goal was to determine the optimal location for factories to minimize the total cost of facility setup and transportation while satisfying all customer demands.
@@ -35,7 +37,7 @@ I developed a custom optimization solver in Python using a Mixed-Integer Program
 The best solution for the problem is shown below:
 
 <p align="center">
-  <img src="assets/Optimization-Solution.png" width="350" alt="Optimization Solution">
+  <img src="assets/Optimization-Solution.png" width="300" alt="Optimization Solution">
   <br>
   <i>Figure 4: Optimization Solution.</i>
 </p>
