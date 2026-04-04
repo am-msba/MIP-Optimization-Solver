@@ -33,11 +33,11 @@ The best solution for the problem is shown below:
 <p align="center">
   <img src="assets/Optimization-Solution.png" width="350" alt="Optimization Solution">
   <br>
-  <i>Figure 5: Optimization Solution.</i>
+  <i>Figure 4: Optimization Solution.</i>
 </p>
 
 <p align="center">
   <img src="assets/Map-Viz.png" width="300" alt="Solution Map">
   <br>
-  <i>Figure 4: Solution Map Visualization.</i>
+  <i>Figure 5: Solution Map Visualization.</i>
 </p>
