@@ -10,6 +10,8 @@ This project addresses the Facility Location Problem (FLP), a strategic decision
   <i>Figure 1: Model components and requirements.</i>
 </p>
 
+---
+
 ### Methods and Tools
 
 I developed a custom optimization solver in Python using a Mixed-Integer Programming (MIP) framework and applied it to an internally generated data set. The optimizer uses opening costs and customer distances to evaluate what factory locations should be opened as well as what customers should be designated to the open factories. The decision variables and constraints for the model are shown below:
@@ -26,6 +28,8 @@ I developed a custom optimization solver in Python using a Mixed-Integer Program
   <br>
   <i>Figure 3: Factory Opening Costs.</i>
 </p>
+
+---
 
 ### Findings
 The best solution for the problem is shown below:
