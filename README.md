@@ -1,4 +1,4 @@
-[**Home**](https://am-msba.github.io/Portfolio/) | [**Machine Learning Prediction Model**](https://am-msba.github.io/Machine_Learning_Prediction_Project/) |
+[**Home**](https://am-msba.github.io/Portfolio/) | [**Machine Learning Prediction Model**](https://am-msba.github.io/Machine_Learning_Prediction_Project/) | [**AWS Prediction**](https://am-msba.github.io/Amazon_AWS_Predictor/)
 
 ### Background
 
