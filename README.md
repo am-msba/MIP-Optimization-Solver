@@ -1,4 +1,7 @@
-[<a href="https://am-msba.github.io/Portfolio/" style="color: #c5050c;"><strong>Home</strong></a>] | [<a href="https://am-msba.github.io/Machine_Learning_Prediction_Project/" style="color: #c5050c;"><strong>ML Prediction Modeling</strong></a>] | [<a href="https://am-msba.github.io/Amazon_AWS_Predictor/" style="color: #c5050c;"><strong>AWS Prediction</strong></a>]
+<a href="https://am-msba.github.io/Portfolio/" style="color: #c5050c; font-weight: bold;">Home</a> | 
+<a href="https://am-msba.github.io/Machine_Learning_Prediction_Project/" style="color: #c5050c; font-weight: bold;">ML Prediction</a> | 
+<a href="https://am-msba.github.io/Amazon_AWS_Predictor/" style="color: #c5050c; font-weight: bold;">AWS Prediction</a>
+
 ### Background
 
 This project addresses the Facility Location Problem (FLP), a strategic decision-making challenge in supply chain management. The goal was to determine the optimal location for factories to minimize the total cost of facility setup and transportation while satisfying all customer demands.
